@@ -10,10 +10,11 @@ Experience:
 🧠 Strong focus on data analysis & visualization, business insights, and process improvement
 
 🛠️ Projects:
+- **Personalized Learning Materials**: Analyzed real-world student performance data to understand how learning styles relate to academic outcomes and recommended personalized learning materials.
+- **Loan Approval Prediction**: Predicting whether or not a loan application will be approved based on classification models, utilizing variables like loan amount, employment status, and credit score.
 - **COVID-19 Dashboard**: Cleaned & visualized 1M+ records using Python, Excel, and Tableau  
 - **Health Insurance Database**: Built SQL-based reporting system with Lucidchart ERDs & Excel
-- **Loan Approval Prediction**: Predicting whether or not a loan application will be approved based on classification models, utilizing variables like loan amount, employment status, and credit score.
-- **Personalized Learning Materials**: Analyzed real-world student performance data to understand how learning styles relate to academic outcomes and recommended personalized learning materials.
+
 
 🌱 Currently Learning:
 - Data pipelines & database optimization
