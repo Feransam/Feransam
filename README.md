@@ -2,7 +2,8 @@
 
 🎓 Data Science student at the University of North Texas | Aspiring Data Analyst with a background in military operations and product analysis.
 
-💼 Currently: Data Analytics Co-op @ Toyota, Operations Analyst @ U.S. Army 
+💼 Currently: Data Analytics Co-op @ Toyota, Operations Analyst @ U.S. Army. 
+
 Experience:
 💼 Product Analyst Intern @ Intuit-QuickBooks  
 📊 Skilled in Python, SQL, Excel, Power BI, Tableau, and AWS  
